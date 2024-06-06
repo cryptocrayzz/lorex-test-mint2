@@ -232,12 +232,16 @@ const coba = () => {
             <div className='grid grid-flow-col gap-4'>
                 <div className='flex'>
                     <div className='my-auto'>
+                      <a href="https://x.com/loreksonsol" target="_blank" rel="noopener noreferrer">
                         <Image alt='' className='cursor-pointer' src={xLogo} height={20} />
+                        </a>
                     </div>
                 </div>
                 <div className='flex'>
                     <div className='my-auto'>
+                      <a href="https://t.me/loreksonsol" target="_blank" rel="noopener noreferrer">
                         <Image alt='' className='cursor-pointer' src={telegramLogo} height={20} />
+                        </a>
                     </div>
                 </div>
                 <div>
