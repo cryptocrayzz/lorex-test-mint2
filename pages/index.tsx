@@ -318,7 +318,7 @@ const coba = () => {
                         <div className='flex justify-center'>
                             <Image alt='' src={logoForm} height={120} />
                         </div>
-                        <div className='leading-tight font-semibold text-white text-justify'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. More recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
+                        <div className='leading-tight font-semibold text-white text-justify'>$LOREKS is a meme project inspired by the iconic Rolex brand. While Rolex price face volatility, $LOREKS presents a stable and promising alternative, offering investors steady growth and exciting utilities such as a gambling platform and staking opportunities. To provide a reliable and enjoyable investment platform that offers consistent growth and engaging utilities, making $LOREKS a leading choice for both new and seasoned investors.</div>
                     </div>
                 </div>
             </div>
