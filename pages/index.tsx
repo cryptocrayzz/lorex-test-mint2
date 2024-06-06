@@ -316,16 +316,30 @@ const coba = () => {
                 </div>
             </div>
 
-            <div>
-                <div className='mt-20 pl-6 pr-6 sm:pl-6 sm:pr-16'>
-                    <div className='form-bg p-6'>
-                        <div className='flex justify-center'>
-                            <Image alt='' src={logoForm} height={120} />
-                        </div>
-                        <div className='leading-tight font-semibold text-white text-justify'>$LOREKS is a meme project inspired by the iconic Rolex brand. While Rolex price face volatility, $LOREKS presents a stable and promising alternative, offering investors steady growth and exciting utilities such as a gambling platform and staking opportunities. To provide a reliable and enjoyable investment platform that offers consistent growth and engaging utilities, making $LOREKS a leading choice for both new and seasoned investors.</div>
-                    </div>
-                </div>
-            </div>
+<div>
+  <div className='mt-20 pl-6 pr-6 sm:pl-6 sm:pr-16'>
+    <div className='form-bg p-6'>
+      <div className='flex justify-center'>
+        <Image alt='' src={logoForm} height={120} />
+      </div>
+      <div className='leading-tight font-semibold text-white text-justify'>
+        <p>Mint and Stand a Chance to Win Up to 10 Rolexes!</p>
+
+        <p>With LOREKS NFTs, you can purchase luxurious Loreks NFT collectibles and receive a free entry into our exclusive Rolex raffle with each NFT minted!</p>
+
+        <p>Our prize pool scales with success:</p>
+
+        <p>If the $LOREKS token surpasses a market cap of $5 million, 10 Rolexes will be up for grabs.</p>
+
+        <p>We guarantee at least 1 Rolex at the current market cap.</p>
+
+        <p>Additionally, the rarer your NFT, the more bonus tokens you can receive if you win!</p>
+
+        <p>All tokens used to mint NFTs will be matched by our team and burned, improving our liquidity pool.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
         </div>
 
