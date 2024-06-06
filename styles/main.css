@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-bg{
+    /* background: radial-gradient(#ade095 50%,#bb7979 98%,#e5ff00 100%); */
+    background-image: url("../public/assets/image/testtest-bg.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.form-bg{
+    background-image: url("../public/assets/image/bg-biru.png");
+    background-size: cover;
+    background-position: center;
+    @apply border-4 border-black
+}
+.btn-wallet{
+    font-family: DM Sans, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.title-main-card{
+    font-family: Black Ops One,cursive;
+    @apply text-center mb-[0.3em] tracking-[2px] text-[2em] font-bold text-main-title;
+}
+.body-main-card{
+    font-family: Chakra Petch,sans-serif;
+}
+
+.main-card{
+    /* background-color: hsla(185,9%,50%,.301); */
+    background-image: radial-gradient(#ade095 50%,#bb7979 98%,#e5ff00 100%);
+    box-shadow: 0 0 30px rgba(8,198,205,.544);
+    @apply  w-full rounded-[30px] p-[50px];
+}
+.note-card{
+    box-shadow: 0 0 10px hsla(300,8%,91%,.498);
+    background-color: rgba(174,149,165,.524);
+}
+.footer-card{
+    box-shadow: 0 0 10px #fff;
+}
+.title-note-card{
+    font-family: Black Ops One,cursive;
+    @apply text-note-title text-[1.5em] tracking-[2px] font-bold text-center mt-[.2em];
+}
+.body-note-card{
+    font-family: Space Grotesk,sans-serif;
+    @apply sm:text-[1.5em] flex text-note-body font-bold;
+}
+
